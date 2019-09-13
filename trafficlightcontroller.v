@@ -2,7 +2,7 @@
 Design Name 	: Traffic Light Controller
 File Name   	: trafficlightcontroller.v
 Function    	: Manages traffic and pedestrian signal in a 4-way intersection
-Programer     	: Mohammad Abdul Moin Oninda
+Programer     	: Mohammad Abdul Moin Oninda, Mohammad Abdul Momen, Mir Tanveer Islam
 Last Modified	: 29-08-2019
 *************************************************************/
 module trafficlightcontroller(	clk,				//Clock
