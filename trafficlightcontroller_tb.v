@@ -2,7 +2,6 @@
 Design Name 	: Traffic Light Controller Test Bench
 File Name   	: trafficlightcontroller_tb.v
 Function    	: Manages traffic and pedestrian signal in a 4-way intersection
-Programer     	: Mohammad Abdul Moin Oninda
 Last Modified	: 29-08-2019
 *************************************************************/
 module trafficlightcontroller_tb(); 
